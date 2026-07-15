@@ -1,1 +1,1 @@
-{"to_browser": [{"id": "r-1784156430019", "cmd": "echo IT_WORKS && uname -a", "out": "IT_WORKS\nLinux vm 6.18.5 #1 SMP PREEMPT_DYNAMIC @0 x86_64 x86_64 x86_64 GNU/Linux", "ts": "2026-07-15T23:00:30.019631"}], "to_container": [{"id": "verify-001", "text": "echo IT_WORKS && uname -a", "ts": "now"}], "ready": true}
+{"to_browser": [], "to_container": [], "ready": true}
