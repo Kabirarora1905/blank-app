@@ -4,5 +4,11 @@
   "ready": true,
   "started": "2026-07-15T23:43:47.779209+00:00",
   "out": [],
-  "inbox": []
+  "inbox": [
+    {
+      "id": "test_001",
+      "cmd": "echo HELLO_FROM_OUTSIDE && whoami && uname -a",
+      "ts": "2026-07-15T10:00:00Z"
+    }
+  ]
 }
