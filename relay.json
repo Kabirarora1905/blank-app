@@ -1,1 +1,1 @@
-{"to_browser": [], "to_container": [], "ready": true}
+{"to_browser": [], "to_container": [{"id": "verify-001", "text": "echo IT_WORKS && uname -a", "ts": "now"}], "ready": true}
