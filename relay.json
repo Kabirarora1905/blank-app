@@ -1,18 +1,12 @@
 {
   "to_browser": [
     {
-      "id": "r-1784112117032",
-      "cmd": "uname -a && date && echo RELAY_WORKS",
-      "out": "Linux vm 6.18.5 #1 SMP PREEMPT_DYNAMIC @0 x86_64 x86_64 x86_64 GNU/Linux\nWed Jul 15 10:41:57 UTC 2026\nRELAY_WORKS",
-      "ts": "2026-07-15T10:41:57.032836"
+      "id": "manual-test",
+      "cmd": "test",
+      "out": "DIRECT WRITE TEST - relay is working!",
+      "ts": "2026-07-15T10:42:00"
     }
   ],
-  "to_container": [
-    {
-      "id": "test-002",
-      "text": "uname -a && date && echo RELAY_WORKS",
-      "ts": "2026-07-15T10:01:00"
-    }
-  ],
+  "to_container": [],
   "ready": true
 }
