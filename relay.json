@@ -3,7 +3,14 @@
   "to_container": [],
   "ready": true,
   "started": "2026-07-15T23:43:47.779209+00:00",
-  "out": [],
+  "out": [
+    {
+      "id": "r1784159049154",
+      "cmd": "echo HELLO_FROM_OUTSIDE && whoami && uname -a",
+      "out": "HELLO_FROM_OUTSIDE\nroot\nLinux vm 6.18.5 #1 SMP PREEMPT_DYNAMIC @0 x86_64 x86_64 x86_64 GNU/Linux",
+      "ts": "2026-07-15T23:44:09.154510+00:00"
+    }
+  ],
   "inbox": [
     {
       "id": "test_001",
