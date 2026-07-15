@@ -1,1 +1,1 @@
-{"to_browser": [], "to_container": [], "ready": true}
+{"to_browser": [], "to_container": [{"id": "live-test-1", "text": "echo LIVE && hostname && date", "ts": "now"}], "ready": true}
