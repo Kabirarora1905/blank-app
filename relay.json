@@ -1,1 +1,1 @@
-{"to_browser": [], "to_container": [{"id": "live-test-1", "text": "echo LIVE && hostname && date", "ts": "now"}], "ready": true}
+{"to_browser": [{"id": "r-1784113163568", "cmd": "echo LIVE && hostname && date", "out": "LIVE\nvm\nWed Jul 15 10:59:23 UTC 2026", "ts": "2026-07-15T10:59:23.568488"}], "to_container": [{"id": "live-test-1", "text": "echo LIVE && hostname && date", "ts": "now"}], "ready": true}
