@@ -1,1 +1,8 @@
-{"to_browser": [], "to_container": [], "ready": true}
+{
+  "to_browser": [],
+  "to_container": [],
+  "ready": true,
+  "started": "2026-07-15T23:38:45.938040+00:00",
+  "out": [],
+  "inbox": []
+}
