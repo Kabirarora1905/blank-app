@@ -1,1 +1,18 @@
-{"to_browser":[],"to_container":[{"id":"test-001","text":"echo hello from browser && whoami && pwd","ts":"2026-07-15T10:00:00"}],"ready":true}
+{
+  "to_browser": [
+    {
+      "id": "r-1784112086810",
+      "cmd": "echo hello from browser && whoami && pwd",
+      "out": "hello from browser\nroot\n/home/claude",
+      "ts": "2026-07-15T10:41:26.810495"
+    }
+  ],
+  "to_container": [
+    {
+      "id": "test-001",
+      "text": "echo hello from browser && whoami && pwd",
+      "ts": "2026-07-15T10:00:00"
+    }
+  ],
+  "ready": true
+}
