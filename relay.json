@@ -1,12 +1,1 @@
-{
-  "to_browser": [
-    {
-      "id": "manual-test",
-      "cmd": "test",
-      "out": "DIRECT WRITE TEST - relay is working!",
-      "ts": "2026-07-15T10:42:00"
-    }
-  ],
-  "to_container": [hello],
-  "ready": true
-}
+{"to_browser": [], "to_container": [], "ready": true}
